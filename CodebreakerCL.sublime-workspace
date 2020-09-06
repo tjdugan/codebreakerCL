@@ -1,0 +1,959 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"final",
+				"final_list"
+			],
+			[
+				"is",
+				"is_valid_input"
+			],
+			[
+				"val",
+				"valid_input"
+			],
+			[
+				"user",
+				"user_choice"
+			],
+			[
+				"new",
+				"new_list"
+			],
+			[
+				"wri",
+				"write_hs_list_to_file"
+			],
+			[
+				"u",
+				"usr_name"
+			],
+			[
+				"usr",
+				"usr_score"
+			],
+			[
+				"us",
+				"usr_name"
+			],
+			[
+				"ne",
+				"new_score_recorded"
+			],
+			[
+				"gusee",
+				"guess_counter"
+			],
+			[
+				"HH",
+				"HIGH_SCORES"
+			],
+			[
+				"text",
+				"text_list"
+			],
+			[
+				"main",
+				"main_menu"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"H",
+				"HIGH_SCORES"
+			],
+			[
+				"new_",
+				"new_high_scores"
+			],
+			[
+				"test",
+				"test1_score"
+			],
+			[
+				"n",
+				"new_score_added"
+			],
+			[
+				"t",
+				"test1_score"
+			],
+			[
+				"r",
+				"range"
+			],
+			[
+				"ord",
+				"ordered_list"
+			],
+			[
+				"te",
+				"text_list"
+			],
+			[
+				"text_",
+				"text_list"
+			],
+			[
+				"M",
+				"MOVE_CURSOR_DOWN"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"ti",
+				"time_sleep"
+			],
+			[
+				"guess",
+				"guess_counter"
+			],
+			[
+				"sta",
+				"start_game"
+			],
+			[
+				"BRIGHT_B",
+				"BRIGHT_BLUE"
+			],
+			[
+				"game",
+				"game_over"
+			],
+			[
+				"g",
+				"guesses"
+			],
+			[
+				"quit",
+				"quit_game"
+			],
+			[
+				"gam",
+				"game_over"
+			],
+			[
+				"animate",
+				"animate_text"
+			],
+			[
+				"TER",
+				"TERM_ROWS"
+			],
+			[
+				"TE",
+				"TERM_COLS"
+			],
+			[
+				"RE",
+				"RESET_TEXT"
+			],
+			[
+				"set",
+				"set_background_color"
+			],
+			[
+				"B",
+				"BACKGROUND_BLUE_BRIGHT"
+			],
+			[
+				"animat",
+				"animate_text"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"clear",
+				"clear_screen"
+			],
+			[
+				"cl",
+				"clicks"
+			],
+			[
+				"bomb",
+				"bombsAmount"
+			],
+			[
+				"ga",
+				"gameOver"
+			],
+			[
+				"coun",
+				"countdownTimer"
+			],
+			[
+				"time",
+				"timer"
+			],
+			[
+				"tim",
+				"timeRemaining"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"check",
+				"checkForWin"
+			],
+			[
+				"add",
+				"addFlag"
+			],
+			[
+				"fla",
+				"flags"
+			],
+			[
+				"squa",
+				"squares"
+			],
+			[
+				"con",
+				"contains"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"s",
+				"squares"
+			],
+			[
+				"bo",
+				"bomb"
+			],
+			[
+				"c",
+				"contains"
+			],
+			[
+				"su",
+				"shuffleArray"
+			],
+			[
+				"bom",
+				"bombsAmount"
+			],
+			[
+				"bombA",
+				"bombsAmount"
+			],
+			[
+				"cre",
+				"createBoard"
+			],
+			[
+				"squ",
+				"square"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"form",
+				"form_class"
+			],
+			[
+				"P",
+				"Profile"
+			],
+			[
+				"C",
+				"CASCADE"
+			],
+			[
+				"password",
+				"password_success"
+			],
+			[
+				"passw",
+				"password_success"
+			],
+			[
+				"as",
+				"as_view"
+			],
+			[
+				"auth",
+				"auth_views"
+			],
+			[
+				"la",
+				"last_login"
+			],
+			[
+				"User",
+				"UserChangeForm"
+			],
+			[
+				"cate",
+				"category_posts"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"ch",
+				"choice_list"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"Use",
+				"UserCreationForm"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"all",
+				"all_blogs"
+			],
+			[
+				"blo",
+				"blog"
+			],
+			[
+				"al",
+				"all_blogs"
+			],
+			[
+				"b",
+				"blog"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cu",
+				"custUploadTxt"
+			],
+			[
+				"getElementById",
+				"getElementById"
+			],
+			[
+				"cust",
+				"custUploadBtn"
+			],
+			[
+				"Cra",
+				"CreateView"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"gl",
+				"global_url"
+			],
+			[
+				"fiv",
+				"five_year_comp"
+			],
+			[
+				"ye",
+				"yearly_comp_pct"
+			],
+			[
+				"yearly",
+				"yearly_comp"
+			],
+			[
+				"monthly",
+				"monthlyinv"
+			],
+			[
+				"mon",
+				"monthlyinv"
+			],
+			[
+				"init",
+				"initial_inv"
+			],
+			[
+				"yea",
+				"yearly_pct"
+			],
+			[
+				"rew",
+				"reward"
+			],
+			[
+				"fai",
+				"failing_trades"
+			],
+			[
+				"tra",
+				"trades_st"
+			],
+			[
+				"rewa",
+				"reward_st"
+			],
+			[
+				"ris",
+				"risk_st"
+			],
+			[
+				"ini",
+				"initial_inv"
+			],
+			[
+				"uni",
+				"universal_final_payment"
+			],
+			[
+				"get",
+				"get_fastpass_date"
+			],
+			[
+				"hrs",
+				"get_hrs_til_vacation"
+			],
+			[
+				"va",
+				"vacay"
+			],
+			[
+				"ge",
+				"get_vacation_time"
+			],
+			[
+				"U",
+				"UNCATEGORIZED"
+			],
+			[
+				"A",
+				"AIRBARRIER"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"se",
+				"search_item"
+			],
+			[
+				"query",
+				"queryset"
+			],
+			[
+				"produ",
+				"productionTimes"
+			],
+			[
+				"quer",
+				"queryset"
+			],
+			[
+				"q",
+				"queryname"
+			],
+			[
+				"e",
+				"elif"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"sub",
+				"subcategories"
+			],
+			[
+				"get_listed",
+				"get_listed_subCategories"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "codebreaker.py",
+			"settings":
+			{
+				"buffer_size": 16382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "texttest.py",
+			"settings":
+			{
+				"buffer_size": 1849,
+				"line_ending": "Unix",
+				"name": "texttest.py"
+			}
+		},
+		{
+			"file": "media/logo.txt",
+			"settings":
+			{
+				"buffer_size": 498,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "logo_test.py",
+			"settings":
+			{
+				"buffer_size": 597,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resize.py",
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dev/Documents/Tutorials/CodebreakerCL"
+	],
+	"file_history":
+	[
+		"/Users/dev/Documents/Tutorials/CodebreakerCL/High_Scores.txt",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/blog/admin.py",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/blog/templates/new_post.html",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/members/templates/registration/edit_profile_page.html",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/blog/models.py",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/members/templates/registration/edit_profile.html",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/blog/templates/article_details.html",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/blog/templates/base.html",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/members/urls.py",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/members/views.py",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/members/templates/registration/user_profile.html",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/my_blog/settings.py",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/members/templates/registration/change-password.html",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/my_blog/urls.py",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/members/templates/registration/password_success.html",
+		"/Users/dev/Documents/DjangoTut/blog_site/blog/my_blog/members/forms.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/templates/blog/delete_post.html",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/templates/blog/detail.html",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/personal_portfolio/settings.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/templates/blog/edit_post.html",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/templates/blog/new_post.html",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/portfolio/admin.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/members/templates/registration/register.html",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/members/templates/registration/login.html",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/personal_portfolio/urls.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/urls.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/views.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/portfolio/static/portfolio/custom.css",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/models.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/forms.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/templates/blog/all_blogs.html",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/portfolio/templates/portfolio/base.html",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/static/blog/blog_base.css",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/templates/blog/forms.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/apps.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/portfolio/templates/portfolio/home.html",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/portfolio/models.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/portfolio/views.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/blog/admin.py",
+		"/Users/dev/Documents/DjangoTut/portfolio/personal_portfolio-project/media/portfolio/images/313-3137642_clip-art-worker-architectural-engineering-royalty-cartoon-c_Y8xamBI.png",
+		"/Users/dev/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dev/Desktop/CoinMarketCap/coincap_global.py",
+		"//System/Library/CoreServices/SystemVersion.plist",
+		"/Users/dev/Desktop/untitled folder/ScottSpeach",
+		"/Users/dev/Desktop/vacationcountdown.py",
+		"/Users/dev/Downloads/guide_ajax.json",
+		"/Users/dev/Desktop/prodDatabase/src/productdatabase/settings/base.py",
+		"/Users/dev/Desktop/prodDatabase/src/productdatabase/settings/local.py",
+		"/Users/dev/Desktop/prodDatabase/src/productdatabase/settings/production.py",
+		"/Users/dev/Desktop/prodDatabase/src/productdatabase/templates/dashboard/dashboard.css",
+		"/Users/dev/Desktop/prodDatabase/src/productdatabase/templates/dashboard/dashboard.html",
+		"/Users/dev/Desktop/prodDatabase/src/productdatabase/settings.py",
+		"/Users/dev/Documents/website/the-master-of-none/privacypolicy.md",
+		"/Users/dev/Documents/website/the-master-of-none/_posts/2018-06-21-use-abaa-certified-installers.md",
+		"/Users/dev/Documents/website/the-master-of-none/README.md",
+		"/Users/dev/Documents/website/the-master-of-none/_layouts/default.html",
+		"/Users/dev/Documents/website/the-master-of-none/_layouts/post.html",
+		"/Users/dev/Documents/website/the-master-of-none/_site/mediumish-theme-jekyll/about.html",
+		"/Users/dev/Documents/website/the-master-of-none/_site/index.html",
+		"/Users/dev/Documents/website/the-master-of-none/_config.yml",
+		"/Users/dev/Documents/website/the-master-of-none/_site/about.html",
+		"/Users/dev/Desktop/django110/src/estimator/models.py",
+		"/Users/dev/Desktop/dev/estimating/src/estimating/settings.py",
+		"/Users/dev/Desktop/django110/static_cdn/css/base.css",
+		"/Users/dev/Desktop/django110/src/estimator/admin.py",
+		"/Users/dev/Desktop/django110/src/estimate/settings/local.py",
+		"/Users/dev/Desktop/django110/src/estimate/settings/base.py",
+		"/Users/dev/Desktop/django110/src/estimate/settings.py",
+		"/Users/dev/Desktop/django110/src/estimator/templatetags/filters.py",
+		"/Users/dev/Desktop/django110/src/templates/group.html",
+		"/Users/dev/Desktop/django110/src/templatetags/__init__.py",
+		"/Users/dev/Desktop/django110/src/templatetags/filters.py",
+		"/Users/dev/Desktop/django110/src/estimator/templatetags/__init__.py",
+		"/Users/dev/Desktop/django110/src/estimator/templatetags/removeify.py",
+		"/Users/dev/Desktop/django110/src/static/css/base.css",
+		"/Users/dev/Desktop/django110/src/templates/item.html",
+		"/Users/dev/Desktop/django110/src/templates/base.html",
+		"/Users/dev/Desktop/django110/src/templates/header.html",
+		"/Users/dev/Desktop/django110/src/estimate/settings/production.py",
+		"/Users/dev/Desktop/django110/src/estimator/urls.py",
+		"/Users/dev/Desktop/django110/src/templates/index.html",
+		"/Users/dev/Desktop/django110/src/estimate/urls.py",
+		"/Users/dev/Desktop/django110/src/estimator/forms.py",
+		"/Users/dev/Desktop/django110/src/templates/add.html",
+		"/Users/dev/Desktop/django110/src/templates/updatearchitects.html",
+		"/Users/dev/Desktop/django110/src/templates/addequipment.html",
+		"/Users/dev/Desktop/django110/src/templates/updatematerials.html",
+		"/Users/dev/Desktop/django110/src/templates/updatedistributors.html",
+		"/Users/dev/Desktop/django110/src/templates/updatecontractorrep.html",
+		"/Users/dev/Desktop/django110/src/estimator/views.py",
+		"/Users/dev/Desktop/django110/src/templates/updatesalesrep.html",
+		"/Users/dev/Desktop/django110/src/templates/updateproductreps.html",
+		"/Users/dev/Desktop/django110/src/templates/updatecontractors.html",
+		"/Users/dev/Desktop/django110/src/templates/updateequipment.html",
+		"/Users/dev/Desktop/django110/src/templates/updaterates.html",
+		"/Users/dev/Desktop/django110/src/estimator/__init__.py",
+		"/Users/dev/Desktop/django110/src/estimate/settings/__init__.py",
+		"/Users/dev/Desktop/django110/.gitignore",
+		"/Users/dev/Desktop/django110/src/.gitignore"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "codebreaker.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8997,
+								8997
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4040.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "texttest.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								559
+							]
+						],
+						"settings":
+						{
+							"auto_name": "texttest.py",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "media/logo.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "logo_test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								597
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resize.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "CodebreakerCL.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
